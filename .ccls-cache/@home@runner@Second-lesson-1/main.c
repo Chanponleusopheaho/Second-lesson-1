@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main1() {
+int main3() {
   int x;
   x = (int)(pow(3, 2));
   float y;
